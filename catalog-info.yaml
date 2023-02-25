@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: life-game-calculator
+  annotations:
+    github.com/project-slug: AlienClubrider/life-game-calculator
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
