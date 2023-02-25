@@ -12,3 +12,4 @@ spec:
   type: website
   lifecycle: experimental
   owner: guests
+  system: POS
