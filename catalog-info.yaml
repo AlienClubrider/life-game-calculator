@@ -4,6 +4,7 @@ metadata:
   name: life-game-calculator
   annotations:
     github.com/project-slug: AlienClubrider/life-game-calculator
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
