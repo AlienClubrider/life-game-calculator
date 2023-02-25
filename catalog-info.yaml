@@ -11,5 +11,5 @@ metadata:
 spec:
   type: website
   lifecycle: experimental
-  owner: guests
+  owner: user:guest
   system: POS
