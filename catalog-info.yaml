@@ -2,6 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: life-game-calculator
+  links:
+    - url: https://pennyformythoughts.vercel.app/
+      title: Docs Penny for My Thoughts
   annotations:
     github.com/project-slug: AlienClubrider/life-game-calculator
     backstage.io/techdocs-ref: value
