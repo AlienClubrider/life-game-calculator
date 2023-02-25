@@ -6,6 +6,6 @@ metadata:
     github.com/project-slug: AlienClubrider/life-game-calculator
     backstage.io/techdocs-ref: value
 spec:
-  type: other
-  lifecycle: unknown
+  type: website
+  lifecycle: experimental
   owner: guests
